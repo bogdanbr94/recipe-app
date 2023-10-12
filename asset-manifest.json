@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bogdanbr94/recipe-app/static/css/main.45b1ce78.css",
-    "main.js": "/bogdanbr94/recipe-app/static/js/main.c538bf67.js",
-    "static/js/787.8d8ddc60.chunk.js": "/bogdanbr94/recipe-app/static/js/787.8d8ddc60.chunk.js",
-    "index.html": "/bogdanbr94/recipe-app/index.html",
-    "main.45b1ce78.css.map": "/bogdanbr94/recipe-app/static/css/main.45b1ce78.css.map",
-    "main.c538bf67.js.map": "/bogdanbr94/recipe-app/static/js/main.c538bf67.js.map",
-    "787.8d8ddc60.chunk.js.map": "/bogdanbr94/recipe-app/static/js/787.8d8ddc60.chunk.js.map"
+    "main.css": "/recipe-app/static/css/main.45b1ce78.css",
+    "main.js": "/recipe-app/static/js/main.1ecff6d5.js",
+    "static/js/787.8d8ddc60.chunk.js": "/recipe-app/static/js/787.8d8ddc60.chunk.js",
+    "index.html": "/recipe-app/index.html",
+    "main.45b1ce78.css.map": "/recipe-app/static/css/main.45b1ce78.css.map",
+    "main.1ecff6d5.js.map": "/recipe-app/static/js/main.1ecff6d5.js.map",
+    "787.8d8ddc60.chunk.js.map": "/recipe-app/static/js/787.8d8ddc60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45b1ce78.css",
-    "static/js/main.c538bf67.js"
+    "static/js/main.1ecff6d5.js"
   ]
 }
