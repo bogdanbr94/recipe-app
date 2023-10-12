@@ -1,7 +1,7 @@
 
-# Author
-*Author*: Bogdan Branetiu
-*Email*: bogdan.br94@gmail.com
+## Author
+*Author*: Bogdan Branetiu\
+*Email*: bogdan.br94@gmail.com\
 *Linkedin*: https://www.linkedin.com/in/bogdan-br/
 
 # Getting Started with Recipe App Payroc
