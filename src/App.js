@@ -100,7 +100,7 @@ const App = () => {
      <div className="data">
      
      {accordionItems.map((item, index) => (
-      <div key={index} className={`accordion-item ${index === activeAccordion ? 'active' : ''}`}>
+      <div key={index} className={`accordion-item`}>
         <div className={`accordion-title ${index === activeAccordion ? 'active' : ''}`} onClick={() => handleAccordionClick(index)} >
           {item.title}
         </div>
